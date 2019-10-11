@@ -1,0 +1,21 @@
+Gilberts 
+
+the motors = 
+
+spildle	fw only	10hp (20amps)
+suds	fw only	1hp (2 amps)
+main hydrulic	fw only	20hp (43 amps)
+oil donkey pump	fw only	1hp (2 amps)
+lube pump	fw only	.5hp (1 amp)
+Z feed fw/rev	?hp (10 amps)
+X feed fw/rev	?hp (10 amps)
+cup spindle 	fw only	6hp (10 amps)
+coolent skimmer	fw only	?hp (4 amps)
+mag chuck 
+
+IO
+X feed sensors x 2
+Y sensors x 2
+spindle current
+mag chuck on
+
